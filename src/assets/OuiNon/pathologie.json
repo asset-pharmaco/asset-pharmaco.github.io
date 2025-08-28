@@ -1,0 +1,12 @@
+[
+  { "question": "Le diabète est lié à l’insuline ?", "answer": "Oui" },
+  { "question": "La grippe est causée par une bactérie ?", "answer": "Non" },
+  { "question": "L’hypertension peut causer des AVC ?", "answer": "Oui" },
+  { "question": "L’appendicite touche le foie ?", "answer": "Non" },
+  { "question": "L’asthme est une maladie respiratoire ?", "answer": "Oui" },
+  { "question": "Le paludisme est causé par un virus ?", "answer": "Non" },
+  { "question": "La tuberculose affecte les poumons ?", "answer": "Oui" },
+  { "question": "L’arthrose est une maladie articulaire ?", "answer": "Oui" },
+  { "question": "La migraine est une maladie cardiaque ?", "answer": "Non" },
+  { "question": "Le choléra est une infection bactérienne ?", "answer": "Oui" }
+]

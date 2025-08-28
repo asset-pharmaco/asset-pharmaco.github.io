@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Quel organe est principalement responsable de la métabolisation des médicaments ?",
+    "options": ["Rein", "Foie", "Cœur", "Poumon"],
+    "answer": 1
+  },
+  {
+    "question": "Le système nerveux autonome est composé de combien de divisions principales ?",
+    "options": ["1", "2", "3", "4"],
+    "answer": 1
+  },
+  {
+    "question": "Quel organe filtre le sang pour éliminer les toxines ?",
+    "options": ["Foie", "Rein", "Pancréas", "Estomac"],
+    "answer": 1
+  },
+  {
+    "question": "Laquelle de ces fonctions n'est PAS attribuée au foie ?",
+    "options": ["Stockage de glycogène", "Production de bile", "Filtration des reins", "Détoxification"],
+    "answer": 2
+  },
+  {
+    "question": "Quel système régule les hormones et la croissance ?",
+    "options": ["Système nerveux", "Système endocrinien", "Système immunitaire", "Système digestif"],
+    "answer": 1
+  },
+  {
+    "question": "Quel os protège le cerveau ?",
+    "options": ["Fémur", "Crâne", "Humérus", "Côtes"],
+    "answer": 1
+  },
+  {
+    "question": "Quel organe est responsable de la production d'insuline ?",
+    "options": ["Pancréas", "Foie", "Rein", "Estomac"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle structure du cœur envoie le sang vers les poumons ?",
+    "options": ["Oreillette gauche", "Oreillette droite", "Ventricule gauche", "Ventricule droit"],
+    "answer": 3
+  },
+  {
+    "question": "Quelle partie de l’œil contrôle la quantité de lumière qui entre ?",
+    "options": ["Rétine", "Iris", "Cornée", "Cristallin"],
+    "answer": 1
+  },
+  {
+    "question": "Quel muscle est principalement utilisé pour la respiration ?",
+    "options": ["Biceps", "Diaphragme", "Quadriceps", "Triceps"],
+    "answer": 1
+  },
+  {
+    "question": "Quel organe stocke la bile produite par le foie ?",
+    "options": ["Vésicule biliaire", "Pancréas", "Estomac", "Intestin grêle"],
+    "answer": 0
+  },
+  {
+    "question": "Quel est le plus grand organe du corps humain ?",
+    "options": ["Peau", "Foie", "Cerveau", "Poumons"],
+    "answer": 0
+  },
+  {
+    "question": "Quel os forme la partie supérieure du bras ?",
+    "options": ["Fémur", "Humérus", "Radius", "Ulna"],
+    "answer": 1
+  },
+  {
+    "question": "Quel organe est le principal responsable de la filtration du sang et de l'élimination de l'urine ?",
+    "options": ["Foie", "Rein", "Poumon", "Vessie"],
+    "answer": 1
+  },
+  {
+    "question": "Quelle structure du cerveau est responsable de l'équilibre et de la coordination ?",
+    "options": ["Cervelet", "Cortex", "Hypothalamus", "Tronc cérébral"],
+    "answer": 0
+  },
+  {
+    "question": "Quel organe produit la majorité des enzymes digestives ?",
+    "options": ["Foie", "Pancréas", "Estomac", "Intestin grêle"],
+    "answer": 1
+  },
+  {
+    "question": "Quel type de globules sanguins est responsable du transport de l'oxygène ?",
+    "options": ["Globules blancs", "Plaquettes", "Globules rouges", "Plasma"],
+    "answer": 2
+  },
+  {
+    "question": "Quelle glande est surnommée la 'glande maître' du système endocrinien ?",
+    "options": ["Thyroïde", "Hypophyse", "Pancréas", "Surrénales"],
+    "answer": 1
+  },
+  {
+    "question": "Quel est le principal organe impliqué dans l'échange gazeux ?",
+    "options": ["Cœur", "Poumons", "Rein", "Foie"],
+    "answer": 1
+  },
+  {
+    "question": "Quel muscle est le plus important pour la flexion du bras ?",
+    "options": ["Biceps brachial", "Triceps brachial", "Deltoïde", "Pectoral"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle structure protège la moelle épinière ?",
+    "options": ["Crâne", "Vertèbres", "Côtes", "Clavicule"],
+    "answer": 1
+  },
+  {
+    "question": "Quelle partie du cerveau contrôle la respiration et le rythme cardiaque ?",
+    "options": ["Cortex", "Cervelet", "Tronc cérébral", "Hypothalamus"],
+    "answer": 2
+  },
+  {
+    "question": "Quel organe stocke et concentre l’urine avant son excrétion ?",
+    "options": ["Vessie", "Rein", "Uretère", "Pancréas"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle artère transporte le sang oxygéné du cœur vers le corps ?",
+    "options": ["Artère pulmonaire", "Aorte", "Veine cave", "Carotide"],
+    "answer": 1
+  },
+  {
+    "question": "Quel tissu relie les muscles aux os ?",
+    "options": ["Ligament", "Tendon", "Cartilage", "Épithélium"],
+    "answer": 1
+  },
+  {
+    "question": "Quel os fait partie de la jambe ?",
+    "options": ["Radius", "Fémur", "Humérus", "Clavicule"],
+    "answer": 1
+  },
+  {
+    "question": "Quel composant du sang est essentiel à la coagulation ?",
+    "options": ["Plaquettes", "Globules rouges", "Globules blancs", "Plasma"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle glande est située sur le dessus des reins ?",
+    "options": ["Thyroïde", "Surrénales", "Pancréas", "Hypophyse"],
+    "answer": 1
+  },
+  {
+    "question": "Quel organe régule l'équilibre hydrique et électrolytique du corps ?",
+    "options": ["Foie", "Rein", "Poumon", "Vessie"],
+    "answer": 1
+  },
+  {
+    "question": "Quelle structure du système nerveux transmet les impulsions au cerveau ?",
+    "options": ["Neurones", "Plaquettes", "Globules rouges", "Muscles"],
+    "answer": 0
+  },
+  {
+    "question": "Quel os protège le cœur et les poumons ?",
+    "options": ["Côtes", "Crâne", "Humérus", "Fémur"],
+    "answer": 0
+  },
+  {
+    "question": "Quel organe sécrète la bile pour faciliter la digestion des graisses ?",
+    "options": ["Foie", "Pancréas", "Vésicule biliaire", "Estomac"],
+    "answer": 0
+  },
+  {
+    "question": "Quel composant du sang transporte les anticorps ?",
+    "options": ["Globules rouges", "Globules blancs", "Plasma", "Plaquettes"],
+    "answer": 2
+  },
+  {
+    "question": "Quel os forme la partie inférieure de la jambe ?",
+    "options": ["Tibia", "Fémur", "Radius", "Ulna"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle glande régule le métabolisme grâce à la thyroxine ?",
+    "options": ["Thyroïde", "Pancréas", "Hypophyse", "Surrénales"],
+    "answer": 0
+  },
+  {
+    "question": "Quel organe contient les alvéoles pour l'échange gazeux ?",
+    "options": ["Rein", "Poumons", "Cœur", "Foie"],
+    "answer": 1
+  },
+  {
+    "question": "Quel os relie l'épaule au coude ?",
+    "options": ["Radius", "Humérus", "Fémur", "Clavicule"],
+    "answer": 1
+  },
+  {
+    "question": "Quel tissu recouvre l'extérieur des os et sert de protection ?",
+    "options": ["Cartilage", "Périoste", "Ligament", "Épithélium"],
+    "answer": 1
+  },
+  {
+    "question": "Quel organe sécrète l'adrénaline ?",
+    "options": ["Pancréas", "Surrénales", "Thyroïde", "Hypophyse"],
+    "answer": 1
+  },
+  {
+    "question": "Quel organe produit les hormones sexuelles ?",
+    "options": ["Ovaires/testicules", "Thyroïde", "Surrénales", "Pancréas"],
+    "answer": 0
+  }
+]

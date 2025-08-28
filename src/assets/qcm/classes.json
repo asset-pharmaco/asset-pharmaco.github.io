@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Quelle est la classe thérapeutique du paracétamol ?",
+    "options": ["Antalgique", "Antibiotique", "Anti-inflammatoire", "Antidépresseur"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle est la classe des bêtabloquants ?",
+    "options": ["Anticoagulants", "Antihypertenseurs", "Antidiabétiques", "Antiviraux"],
+    "answer": 1
+  },
+  {
+    "question": "L'amoxicilline appartient à quelle classe ?",
+    "options": ["Macrolides", "Tétracyclines", "Pénicillines", "Céphalosporines"],
+    "answer": 2
+  },
+  {
+    "question": "L’ibuprofène est un médicament de la classe :",
+    "options": ["Anti-inflammatoires non stéroïdiens (AINS)", "Antihypertenseurs", "Antibiotiques", "Hypolipémiants"],
+    "answer": 0
+  },
+  {
+    "question": "Le furosémide appartient à quelle classe thérapeutique ?",
+    "options": ["Bêtabloquants", "Diurétiques de l’anse", "IEC", "Corticoïdes"],
+    "answer": 1
+  },
+  {
+    "question": "Quelle est la classe des inhibiteurs de l’enzyme de conversion (IEC) ?",
+    "options": ["Antiviraux", "Antihypertenseurs", "Antibiotiques", "Antidiabétiques"],
+    "answer": 1
+  },
+  {
+    "question": "La metformine est un médicament de la classe :",
+    "options": ["Antihypertenseurs", "Antidiabétiques oraux", "Hypnotiques", "Antalgiques"],
+    "answer": 1
+  },
+  {
+    "question": "L’acide acétylsalicylique (aspirine) appartient à quelle classe ?",
+    "options": ["Anti-inflammatoires non stéroïdiens (AINS)", "Antibiotiques", "Hypoglycémiants", "Antiviraux"],
+    "answer": 0
+  },
+  {
+    "question": "Le diazépam (Valium) fait partie de quelle classe ?",
+    "options": ["Antipsychotiques", "Benzodiazépines", "Antidépresseurs", "Anticonvulsivants"],
+    "answer": 1
+  },
+  {
+    "question": "La fluoxétine appartient à quelle classe ?",
+    "options": ["Antidépresseurs ISRS", "Antipsychotiques", "Benzodiazépines", "Analgésiques"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle est la classe thérapeutique des statines ?",
+    "options": ["Anticoagulants", "Diurétiques", "Hypolipémiants", "Antibiotiques"],
+    "answer": 2
+  },
+  {
+    "question": "L’énalapril appartient à quelle classe ?",
+    "options": ["ARA2", "IEC", "Bêtabloquants", "Diurétiques"],
+    "answer": 1
+  },
+  {
+    "question": "Le losartan est classé dans :",
+    "options": ["Inhibiteurs calciques", "ARA2 (antagonistes des récepteurs de l’angiotensine II)", "Bêtabloquants", "IEC"],
+    "answer": 1
+  },
+  {
+    "question": "L’atorvastatine appartient à quelle classe ?",
+    "options": ["Diurétiques", "Hypolipémiants (statines)", "Anticoagulants", "Antiviraux"],
+    "answer": 1
+  },
+  {
+    "question": "Le clopidogrel est un :",
+    "options": ["Anti-inflammatoire", "Antiagrégant plaquettaire", "Anticoagulant", "Antibiotique"],
+    "answer": 1
+  },
+  {
+    "question": "Quelle est la classe thérapeutique de l’insuline ?",
+    "options": ["Antidiabétiques injectables", "Diurétiques", "Antiviraux", "Antihypertenseurs"],
+    "answer": 0
+  },
+  {
+    "question": "Le salbutamol (Ventoline) appartient à quelle classe ?",
+    "options": ["Corticoïdes", "Bronchodilatateurs bêta-2 agonistes", "Antihistaminiques", "Antibiotiques"],
+    "answer": 1
+  },
+  {
+    "question": "L’oméprazole est un médicament de la classe :",
+    "options": ["IPP (Inhibiteurs de la pompe à protons)", "Anti-H2", "AINS", "Antiacides simples"],
+    "answer": 0
+  },
+  {
+    "question": "Quelle est la classe du lévothyroxine ?",
+    "options": ["Hormones thyroïdiennes", "Antihypertenseurs", "Diurétiques", "Antidiabétiques"],
+    "answer": 0
+  },
+  {
+    "question": "La morphine appartient à la classe des :",
+    "options": ["AINS", "Analgésiques opioïdes", "Hypnotiques", "Antidépresseurs"],
+    "answer": 1
+  },
+  {
+    "question": "Le lorazépam appartient à quelle classe ?",
+    "options": ["Hypnotiques", "Benzodiazépines", "Antidépresseurs ISRS", "Antipsychotiques"],
+    "answer": 1
+  },
+  {
+    "question": "La cimétidine est un médicament de la classe :",
+    "options": ["AINS", "Anti-H2", "IPP (Inhibiteurs de la pompe à protons)", "Antiacides simples"],
+    "answer": 1
+  },
+  {
+    "question": "Le nifédipine appartient à quelle classe ?",
+    "options": ["Bêtabloquants", "Inhibiteurs calciques", "Diurétiques", "IEC"],
+    "answer": 1
+  },
+  {
+    "question": "Le digoxine est un médicament de la classe :",
+    "options": ["Cardiotonique", "Diurétique", "Antiarythmique", "Anticoagulant"],
+    "answer": 0
+  },
+  {
+    "question": "La ciprofloxacine appartient à quelle classe ?",
+    "options": ["Macrolides", "Fluoroquinolones", "Céphalosporines", "Pénicillines"],
+    "answer": 1
+  },
+  {
+    "question": "Le méthyldopa est un médicament de la classe :",
+    "options": ["Antihypertenseurs", "Diurétiques", "Anti-inflammatoires", "Anticoagulants"],
+    "answer": 0
+  },
+  {
+    "question": "La warfarine appartient à quelle classe ?",
+    "options": ["Antiagrégants plaquettaires", "Anticoagulants", "AINS", "Antibiotiques"],
+    "answer": 1
+  },
+  {
+    "question": "Le prednisone est un médicament de la classe :",
+    "options": ["Corticoïdes", "AINS", "Antihistaminiques", "Diurétiques"],
+    "answer": 0
+  },
+  {
+    "question": "Le tétracycline appartient à quelle classe ?",
+    "options": ["Macrolides", "Tétracyclines", "Céphalosporines", "Pénicillines"],
+    "answer": 1
+  },
+  {
+    "question": "Le salmétérol est un médicament de la classe :",
+    "options": ["Bronchodilatateurs bêta-2 agonistes", "Corticoïdes inhalés", "Antihistaminiques", "Diurétiques"],
+    "answer": 0
+  }
+]

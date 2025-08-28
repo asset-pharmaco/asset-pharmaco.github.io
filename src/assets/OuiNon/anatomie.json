@@ -1,0 +1,12 @@
+[
+  { "question": "Le cœur a 4 cavités ?", "answer": "Oui" },
+  { "question": "L'humérus est un os de la jambe ?", "answer": "Non" },
+  { "question": "Le foie produit de la bile ?", "answer": "Oui" },
+  { "question": "Le cerveau contrôle la respiration ?", "answer": "Oui" },
+  { "question": "La rate se situe dans la cage thoracique ?", "answer": "Non" },
+  { "question": "Les poumons sont reliés au cœur ?", "answer": "Oui" },
+  { "question": "Le tibia est un os du bras ?", "answer": "Non" },
+  { "question": "L'estomac est un organe digestif ?", "answer": "Oui" },
+  { "question": "Les reins filtrent le sang ?", "answer": "Oui" },
+  { "question": "Le pancréas produit de l'adrénaline ?", "answer": "Non" }
+]

@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  overflow: hidden; /* Empêche le scroll vertical et horizontal */
+  height: 100vh;    /* Assure que le body ne dépasse pas la hauteur de l'écran */
+}

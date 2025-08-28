@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Quel effet indésirable est fréquent avec la digoxine ?",
+    "options": ["Bradycardie", "Hyperglycémie", "Hypotension", "Nausées"],
+    "answer": 0
+  },
+  {
+    "question": "Quel est l’effet secondaire le plus courant des AINS sur l’estomac ?",
+    "options": ["Somnolence", "Ulceration gastrique", "Hyperthermie", "Rash cutané"],
+    "answer": 1
+  },
+  {
+    "question": "Quel effet secondaire est observé avec les opioïdes ?",
+    "options": ["Constipation", "Tachycardie", "Myalgies", "Insomnie"],
+    "answer": 0
+  },
+  {
+    "question": "Quel effet indésirable principal des corticoïdes à forte dose ?",
+    "options": ["Somnolence", "Toux sèche", "Hyperglycémie", "Hypoglycémie"],
+    "answer": 2
+  },
+  {
+    "question": "Quel effet secondaire est souvent associé aux benzodiazépines ?",
+    "options": ["Nausées", "Constipation", "Somnolence", "Hypotension sévère"],
+    "answer": 2
+  },
+  {
+    "question": "Quel effet indésirable est fréquent avec les diurétiques thiazidiques ?",
+    "options": ["Hypokaliémie", "Hyperglycémie", "Hyperkaliémie", "Hallucinations"],
+    "answer": 0
+  },
+  {
+    "question": "Quel effet secondaire majeur des antipsychotiques atypiques ?",
+    "options": ["Prise de poids", "Nausées", "Hyperthermie", "Diarrhée"],
+    "answer": 0
+  },
+  {
+    "question": "Quel effet indésirable est associé à la théophylline ?",
+    "options": ["Tachycardie", "Constipation", "Somnolence", "Hypoglycémie"],
+    "answer": 0
+  },
+  {
+    "question": "Quel effet secondaire fréquent est lié à l’halopéridol ?",
+    "options": ["Hypoglycémie", "Constipation", "Syndrome extrapyramidal", "Nausées"],
+    "answer": 2
+  },
+  {
+    "question": "Quel médicament peut provoquer une photosensibilisation cutanée ?",
+    "options": ["Citalopram", "Paracétamol", "Ibuprofène", "Doxycycline"],
+    "answer": 3
+  },
+  {
+    "question": "Quel effet indésirable est associé aux inhibiteurs calciques ?",
+    "options": ["Hypoglycémie", "Constipation", "Somnolence", "Oedème périphérique"],
+    "answer": 3
+  },
+  {
+    "question": "Quel effet secondaire est fréquent avec les ARA2 ?",
+    "options": ["Hypokaliémie", "Somnolence", "Hyperkaliémie", "Nausées"],
+    "answer": 2
+  },
+  {
+    "question": "Quel effet indésirable est lié aux sulfonylurées ?",
+    "options": ["Constipation", "Rash cutané", "Hyperglycémie", "Hypoglycémie"],
+    "answer": 3
+  },
+  {
+    "question": "Quel effet secondaire est le plus courant des IPP ?",
+    "options": ["Toux sèche", "Hypoglycémie", "Céphalée", "Nausées"],
+    "answer": 2
+  },
+  {
+    "question": "Quel effet indésirable est associé aux statines ?",
+    "options": ["Myalgies", "Insomnie", "Hypotension", "Constipation"],
+    "answer": 0
+  },
+  {
+    "question": "Quel effet secondaire est fréquent avec les antidépresseurs tricycliques ?",
+    "options": ["Toux sèche", "Bouche sèche", "Somnolence", "Constipation"],
+    "answer": 1
+  },
+  {
+    "question": "Quel effet indésirable est associé à l’amlodipine ?",
+    "options": ["Somnolence", "Oedème des chevilles", "Hyperkaliémie", "Hypoglycémie"],
+    "answer": 1
+  },
+  {
+    "question": "Quel effet secondaire fréquent est observé avec le lithium ?",
+    "options": ["Constipation", "Hypotension", "Somnolence", "Tremblements"],
+    "answer": 3
+  },
+  {
+    "question": "Quel est l’effet secondaire majeur de la clozapine ?",
+    "options": ["Agranulocytose", "Constipation", "Tachycardie", "Somnolence"],
+    "answer": 0
+  },
+  {
+    "question": "Quel effet indésirable le plus courant des opioïdes morphiniques ?",
+    "options": ["Somnolence", "Constipation", "Nausées", "Tachycardie"],
+    "answer": 1
+  },
+  {
+    "question": "Quel effet secondaire est fréquent avec les IEC ?",
+    "options": ["Hypotension", "Toux sèche", "Nausées", "Rash cutané"],
+    "answer": 1
+  },
+  {
+    "question": "Quel effet indésirable est associé à la rifampicine ?",
+    "options": ["Hypoglycémie", "Coloration orangée des urines", "Somnolence", "Constipation"],
+    "answer": 1
+  },
+  {
+    "question": "Quel effet secondaire est fréquent avec les quinolones ?",
+    "options": ["Somnolence", "Tendinite", "Hypotension", "Constipation"],
+    "answer": 1
+  },
+  {
+    "question": "Quel effet indésirable est associé à la phénytoïne ?",
+    "options": ["Somnolence", "Constipation", "Hyperplasie gingivale", "Hypoglycémie"],
+    "answer": 2
+  },
+  {
+    "question": "Quel effet secondaire est fréquent avec les antipsychotiques typiques ?",
+    "options": ["Rash cutané", "Syndrome extrapyramidal", "Somnolence", "Constipation"],
+    "answer": 1
+  },
+  {
+    "question": "Quel effet indésirable est lié à l’amiodarone ?",
+    "options": ["Hypotension", "Fibrose pulmonaire", "Somnolence", "Tachycardie"],
+    "answer": 1
+  },
+  {
+    "question": "Quel effet secondaire est associé aux ISRS ?",
+    "options": ["Hypotension", "Somnolence", "Constipation", "Nausées"],
+    "answer": 3
+  },
+  {
+    "question": "Quel effet indésirable est fréquent avec la metformine ?",
+    "options": ["Constipation", "Acidose lactique", "Hypoglycémie", "Somnolence"],
+    "answer": 1
+  },
+  {
+    "question": "Quel effet secondaire est associé aux aminosides comme la gentamicine ?",
+    "options": ["Somnolence", "Hypotension", "Néphrotoxicité", "Constipation"],
+    "answer": 2
+  },
+  {
+    "question": "Quel effet indésirable est le plus courant avec les opiacés ?",
+    "options": ["Tachycardie", "Constipation", "Somnolence", "Nausées"],
+    "answer": 1
+  },
+  {
+    "question": "Quel effet secondaire est fréquent avec les AINS sur le rein ?",
+    "options": ["Toxicité rénale", "Somnolence", "Hypoglycémie", "Constipation"],
+    "answer": 0
+  },
+  {
+    "question": "Quel effet indésirable est associé à la spironolactone ?",
+    "options": ["Hypokaliémie", "Hyperkaliémie", "Constipation", "Hypotension"],
+    "answer": 1
+  },
+  {
+    "question": "Quel effet secondaire est lié à l’héparine ?",
+    "options": ["Hypotension", "Hémorragies", "Somnolence", "Constipation"],
+    "answer": 1
+  },
+  {
+    "question": "Quel effet indésirable est fréquent avec la colchicine ?",
+    "options": ["Somnolence", "Diarrhée", "Tachycardie", "Constipation"],
+    "answer": 1
+  },
+  {
+    "question": "Quel effet secondaire est associé aux corticostéroïdes inhalés ?",
+    "options": ["Hypotension", "Candidose buccale", "Somnolence", "Constipation"],
+    "answer": 1
+  },
+  {
+    "question": "Quel effet indésirable est fréquent avec la kétamine ?",
+    "options": ["Somnolence", "Hallucinations", "Hypotension", "Constipation"],
+    "answer": 1
+  },
+  {
+    "question": "Quel effet secondaire est lié à la tétracycline ?",
+    "options": ["Photosensibilisation", "Hypotension", "Somnolence", "Constipation"],
+    "answer": 0
+  },
+  {
+    "question": "Quel effet indésirable est associé aux antipsychotiques atypiques ?",
+    "options": ["Prise de poids", "Somnolence", "Constipation", "Hypotension"],
+    "answer": 0
+  },
+  {
+    "question": "Quel effet secondaire est fréquent avec les diurétiques épargneurs de potassium ?",
+    "options": ["Hypokaliémie", "Constipation", "Hyperkaliémie", "Somnolence"],
+    "answer": 2
+  },
+  {
+    "question": "Quel effet indésirable est associé au lithium ?",
+    "options": ["Somnolence", "Constipation", "Tremblements", "Hypotension"],
+    "answer": 2
+  }
+]

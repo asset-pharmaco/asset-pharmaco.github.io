@@ -1,0 +1,12 @@
+[
+  { "question": "Le paracétamol est un anti-inflammatoire ?", "answer": "Non" },
+  { "question": "L’ibuprofène peut réduire la fièvre ?", "answer": "Oui" },
+  { "question": "Les antibiotiques sont efficaces contre les virus ?", "answer": "Non" },
+  { "question": "La digoxine est utilisée pour le cœur ?", "answer": "Oui" },
+  { "question": "La metformine traite le diabète ?", "answer": "Oui" },
+  { "question": "L’aspirine peut fluidifier le sang ?", "answer": "Oui" },
+  { "question": "Les statines traitent l’hypertension ?", "answer": "Non" },
+  { "question": "La rifampicine est un antibiotique ?", "answer": "Oui" },
+  { "question": "Le lithium est utilisé comme anxiolytique ?", "answer": "Non" },
+  { "question": "L’insuline diminue la glycémie ?", "answer": "Oui" }
+]
